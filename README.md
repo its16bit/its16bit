@@ -1,4 +1,4 @@
-<img src="[https://komarev.com/ghpvc/?username=its16bit&style=flat-square&color=blue]" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=its16bit&style=flat-square&color=blue" alt=""/>
 
 About me
 
